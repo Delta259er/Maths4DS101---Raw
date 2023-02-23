@@ -1,4 +1,4 @@
-# Maths4DS101---Raw
+# Maths4DS101 - Raw Files
 The raw files pertaining to course Maths4DS101. Here are the files andd the links to where they have been obtained from.
 
 1. The Philosophical Basis of Probability
